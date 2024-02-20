@@ -6,7 +6,7 @@ Clone the repository:
 
 Copy code
 ``` bash=
-git clone <repository-url>
+git clone https://github.com/ramyasreekola/periodic-table
 cd periodic-table
 ```
 
