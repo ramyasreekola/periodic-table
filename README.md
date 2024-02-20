@@ -1,6 +1,7 @@
 # Periodic Table
 
-This is a frontend application that displays periodic table - an arrangement of chemical elements, organized on the basis of their atomic numbers, electron configurations and recurring chemical properties.It allows users to invert the table, putting heavier elements at the top and lighter elements at the bottom. It also highlights elements based on their block.
+This is a frontend application that displays periodic table - an arrangement of chemical elements, organized on the basis of their atomic numbers, electron configurations and recurring chemical properties.It allows users to invert the table, putting heavier elements at the top and lighter elements at the bottom. It also highlights elements based on their block.This application is bootstrapped with Vite.
+
 ## Installation
 Clone the repository:
 
